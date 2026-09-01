@@ -23,6 +23,10 @@
     "tailwind-merge": "^3.6.0",
     "three": "^0.185.1"
   },
+  "overrides": {
+    "react": "$react",
+    "react-dom": "$react-dom"
+  },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
